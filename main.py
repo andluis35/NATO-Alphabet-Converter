@@ -33,9 +33,9 @@ def delete_spaces(string):
     return string.replace(" ", "")
 
 def print_encoded_word(word):
-    print("+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+")
+    print("+=+=+=+")
     print(f"RESULT: {word}")
-    print("+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+")
+    print("+=+=+=+")
 
 def start_encoding():
     print_header()
