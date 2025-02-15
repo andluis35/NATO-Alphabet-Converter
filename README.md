@@ -25,3 +25,4 @@ Em seguida, exibirá o resultado:<br>
 
 ## Módulos Utilizados
 * Pandas
+* Time
