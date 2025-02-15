@@ -16,8 +16,7 @@ Em seguida, exibirá o resultado:<br>
 **<br>OBS: Também funciona para sentenças!<br>**
 ![Conversor alfabeto fonético em funcionamento](./Converter/converter_images/img5.png)
 ![Conversor alfabeto fonético em funcionamento](./Converter/converter_images/img6.png)
-
-
+---
 **Desenvolvido por:** Anderson Luis
 
 **GitHub:** https://github.com/andluis35
